@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuChoice1"
+        android:title="@string/page0_choice1"
+        android:visible="true" />
+    <item
+        android:id="@+id/menuChoice2"
+        android:title="@string/page0_choice2"
+        android:visible="true" />
+</menu>
